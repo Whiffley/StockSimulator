@@ -1,1 +1,1 @@
-# StockSimulator
+# StockSimulator is a simulation of buying and selling stocks. It prompts the user to either buy stocks, sell stocks, save their portfolio, or quit the program. Then, it returns the user's total stock portfolio value.
